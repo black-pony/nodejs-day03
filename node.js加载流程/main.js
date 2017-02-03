@@ -1,0 +1,10 @@
+var a = require("./a");
+console.log(a);
+var a1 = require("a");
+console.log(a1);
+var b = require("b");
+console.log(b);
+var c = require("c");
+console.log(c);
+var d = require("d");
+console.log(d);
